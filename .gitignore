@@ -35,3 +35,18 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+
+# React Native
+node_modules/
+android/
+ios/
+build/
+*.log
+.env
+*.keystore
+*.jks
+.expo/
+web-build/
+
+
